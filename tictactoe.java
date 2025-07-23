@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class tictactoe {
     private static char[][] board;
     private static int n;
